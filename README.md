@@ -63,7 +63,7 @@
 
 ## Resources
 
-* [Confluence Page](https://overhang.atlassian.net/wiki/spaces/Documentat/pages/8585248/overhang-backend-discovery)
+* [Confluence Page](https://overhang.atlassian.net/wiki/x/IACD)
 
 
 <!-- CONTACT -->
