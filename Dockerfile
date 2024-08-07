@@ -6,5 +6,5 @@ RUN mvn -f /home/app/pom.xml -DskipTests=${SKIP_TESTS} clean package
 
 FROM amazoncorretto:21-alpine3.18-jdk
 RUN apk --no-cache add curl
-COPY --from=build /home/app/target/discovery-0.0.1-SNAPSHOT.jar /usr/local/lib/discovery.jar
-ENTRYPOINT ["java", "-jar", "/usr/local/lib/discovery.jar"]
+COPY --from=build /home/app/target/registry-0.0.1-SNAPSHOT.jar /usr/local/lib/discovery.jar
+ENTRYPOINT ["java", "-jar", "/usr/local/lib/registry.jar"]
