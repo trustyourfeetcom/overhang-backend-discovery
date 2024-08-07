@@ -1,6 +1,6 @@
 spring:
   application:
-    name: overhang-backend-discovery
+    name: overhang-backend-registry
   cloud:
     config:
       enabled: true
