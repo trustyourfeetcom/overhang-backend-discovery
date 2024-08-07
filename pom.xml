@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.trustyourfeet.overhang</groupId>
-	<artifactId>discovery</artifactId>
+	<artifactId>registry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>overhang-backend-discovery</name>
-	<description>Discovery server for Overhang</description>
+	<name>overhang-backend-registry</name>
+	<description>Registry server for Overhang</description>
 	<url/>
 	<licenses>
 		<license/>

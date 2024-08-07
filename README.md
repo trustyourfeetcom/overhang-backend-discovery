@@ -10,7 +10,7 @@
 <h3 align="center">Overhang</h3>
 <h4 align="center">overhang-backend-discovery</h3>
   <p align="left">
-    Overhang's Discovery service facilitates service discovery and management within the Overhang ecosystem, leveraging Eureka for dynamic service registry.
+    Overhang's Registry service facilitates service discovery and management within the Overhang ecosystem, leveraging Eureka for dynamic service registry.
   <br />
   <br />
   </p>
