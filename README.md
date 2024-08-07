@@ -3,12 +3,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/trustyourfeetcom/overhang-backend-discovery">
+  <a href="https://github.com/trustyourfeetcom/overhang-backend-registry">
     <img src="https://github.com/trustyourfeetcom/overhang-branding-assets/blob/main/logos/logo.png?raw=true" alt="Overhang Logo" width="120" height="120">
   </a>
 
 <h3 align="center">Overhang</h3>
-<h4 align="center">overhang-backend-discovery</h3>
+<h4 align="center">overhang-backend-registry</h3>
   <p align="left">
     Overhang's Registry service facilitates service discovery and management within the Overhang ecosystem, leveraging Eureka for dynamic service registry.
   <br />
